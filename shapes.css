@@ -1,0 +1,26 @@
+.circle,
+.square,
+.rectangle {
+    display: inline-block;
+    margin: 20px;
+    transition: all 0.3s;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.rectangle {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}

@@ -1,4 +1,4 @@
-// HTML selectors
+// html elements
 let button = document.querySelector("button");
 let profileName = document.querySelector(".profile-name");
 let profileImage = document.querySelector(".profile-image");
