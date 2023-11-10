@@ -1,5 +1,5 @@
 // html div
-let greeting = document.querySelector("greeting");
+let greeting = document.querySelector(".greeting");
 
 // 1. Create a variable called `firstName` and set the value to your name.
 
