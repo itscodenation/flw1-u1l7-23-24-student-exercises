@@ -6,9 +6,9 @@ let rectangle = document.querySelector(".rectangle");
 circle.addEventListener("click", function() {
 
     // 1. Update the circle using the style property.
-    // - Set the backrground color to purple.
-    // - Set the width color to 150px.
-    // - Set the height color to 150px.
+    // - Set the background color to purple.
+    // - Set the width to 150px.
+    // - Set the height to 150px.
    
 
 });
@@ -16,9 +16,9 @@ circle.addEventListener("click", function() {
 square.addEventListener("click", function() {
 
     // 2. Update the square using the style property.
-    // - Set the backrground color to yellow.
-    // - Set the width color to 150px.
-    // - Set the height color to 150px.
+    // - Set the background color to yellow.
+    // - Set the width to 150px.
+    // - Set the height to 150px.
 
 
 
@@ -27,9 +27,9 @@ square.addEventListener("click", function() {
 rectangle.addEventListener("click", function() {
 
     // 3. Update the rectangle using the style property.
-    // - Set the backrground color to orange.
-    // - Set the width color to 250px.
-    // - Set the height color to 150px.
+    // - Set the background color to orange.
+    // - Set the width to 250px.
+    // - Set the height to 150px.
     
 
 
